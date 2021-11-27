@@ -1,0 +1,8 @@
+.flex-box {
+  display: flex;
+  flex-direction: column ;
+}
+.header{
+  justify-content: center;
+  background-color: brown;
+}
